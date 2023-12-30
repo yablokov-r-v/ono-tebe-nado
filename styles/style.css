@@ -11,7 +11,7 @@
   display: flex;
   flex-direction: row;
   gap: 32px;
-  font-family: Raleway, Inter, Arial, sans-serif;
+  font-family: Raleway, Arial, sans-serif;
   font-size: 18px;
   font-weight: 400;
   line-height: 21px;
@@ -41,7 +41,7 @@
 }
 
 .header__address {
-  font-family: Raleway, Inter, Arial, sans-serif;
+  font-family: Raleway, Arial, sans-serif;
   font-size: 18px;
   font-weight: 400;
   line-height: 24px;
@@ -86,7 +86,7 @@
 .aligned-text {
   display: block;
   text-transform: uppercase;
-  font-family: Raleway, Inter, Arial, sans-serif;
+  font-family: Raleway, Arial, sans-serif;
   font-size: 100px;
   font-weight: 700;
   line-height: 115px;
@@ -101,7 +101,7 @@
   display: block;
   text-transform: uppercase;
   color: rgba(255, 255, 255, 1);
-  font-family: Raleway, Inter, Arial, sans-serif;
+  font-family: Raleway, Arial, sans-serif;
   font-size: 100px;
   font-weight: 700;
   line-height: 100px;
@@ -115,7 +115,7 @@
   display: block;
   text-transform: uppercase;
   color: rgba(255, 255, 255, 1);
-  font-family: Raleway, Inter, Arial, sans-serif;
+  font-family: Raleway, Arial, sans-serif;
   font-size: 100px;
   font-weight: 700;
   line-height: 100px;
@@ -183,7 +183,7 @@
 .cover__description-text {
   display: block;
   text-transform: uppercase;
-  font-family: Raleway, Inter, Arial, sans-serif;
+  font-family: Raleway, Arial, sans-serif;
   font-size: 22px;
   font-weight: 400;
   line-height: 28px;
@@ -194,7 +194,7 @@
 .bet-button {
   display: block;
   text-decoration: none;
-  font-family: Raleway, Inter, Arial, sans-serif;
+  font-family: Raleway, Arial, sans-serif;
   font-size: 22px;
   font-weight: 400;
   line-height: 26px;
@@ -213,7 +213,7 @@
 
 .lots__heading {
   display: block;
-  font-family: Raleway, Inter, Arial, sans-serif;
+  font-family: Raleway, Arial, sans-serif;
   font-size: 40px;
   font-weight: 700;
   line-height: 47px;
@@ -250,7 +250,7 @@
 
 .card__title {
   display: block;
-  font-family: Raleway, Inter, Arial, sans-serif;
+  font-family: Raleway, Arial, sans-serif;
   font-size: 22px;
   font-weight: 700;
   line-height: 26px;
@@ -263,7 +263,7 @@
 
 .card__text {
   display: block;
-  font-family: Raleway, Inter, Arial, sans-serif;
+  font-family: Raleway, Arial, sans-serif;
   font-size: 20px;
   font-weight: 400;
   line-height: 24px;
@@ -289,7 +289,7 @@
   text-decoration: underline;
   text-underline-offset: 5px;
   text-decoration-thickness: 1px;
-  font-family: Raleway, Inter, Arial, sans-serif;
+  font-family: Raleway, Arial, sans-serif;
   font-size: 20px;
   font-weight: 400;
   line-height: 23px;
@@ -332,7 +332,7 @@
 }
 
 .about__title {
-  font-family: Raleway, Inter, Arial, sans-serif;
+  font-family: Raleway, Arial, sans-serif;
   font-size: 40px;
   font-weight: 700;
   line-height: 47px;
@@ -344,7 +344,7 @@
 .about__text {
   display: flex;
   flex-direction: column;
-  font-family: Raleway, Inter, Arial, sans-serif;
+  font-family: Raleway, Arial, sans-serif;
   font-size: 20px;
   font-weight: 400;
   line-height: 23px;
@@ -364,7 +364,7 @@
 }
 
 .footer__address {
-  font-family: Raleway, Inter, Arial, sans-serif;
+  font-family: Raleway, Arial, sans-serif;
   font-size: 18px;
   font-weight: 400;
   line-height: 24px;
@@ -384,7 +384,7 @@
   display: flex;
   flex-direction: column;
   list-style-type: none;
-  font-family: Raleway, Inter, Arial, sans-serif;
+  font-family: Raleway, Arial, sans-serif;
   font-size: 18px;
   font-weight: 400;
   line-height: 21px;
@@ -403,7 +403,7 @@
 
 .footer__menu-list-item {
   display: inline-block;
-  font-family: Raleway, Inter, Arial, sans-serif;
+  font-family: Raleway, Arial, sans-serif;
   font-size: 18px;
   font-weight: 400;
   line-height: 21px;
